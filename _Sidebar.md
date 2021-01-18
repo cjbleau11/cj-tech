@@ -1,2 +1,2 @@
 [[SYS2XX]]
-[[SECXXX]]]
+[[SECXXX]]
