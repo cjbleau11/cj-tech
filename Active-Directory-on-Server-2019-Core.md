@@ -1,3 +1,4 @@
+>:bulb: If you can boil down an article to succinct commands, this is great.  You can also add screenshots where it makes sense.
 ```powershell
 Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 Rename-Computer dc1
