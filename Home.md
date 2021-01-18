@@ -6,7 +6,7 @@
 * [[SECXXX]]
 ***
 ## General Topics
->:bulb: This will end up being a goldmine by the time you are a senior.
+>:bulb: This will end up being a goldmine by the time you are a senior and consists of those documents you've authored that have applicability outside of a discrete class.  You should only have to write a how to article on configuring Ubuntu and netplan once.
 * Active Directory
   * [[Active Directory on Server 2019 Core]]
 * Networking
